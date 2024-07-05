@@ -192,3 +192,10 @@ input {
     transform: rotateY(-180deg);
     z-index: 7;
 }
+
+
+.cover:hover {
+    transform: rotateY(-30deg);
+    visibility: visible;
+    opacity: 1;
+}
